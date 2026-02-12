@@ -48,3 +48,7 @@ GitHub ve Netlify kullanarak bir projeyi uçtan uca yayınlama sürecini öğren
 
 Gerçek dünya projelerine başlangıç seviyesinde hazır hâle gelmesidir.
 
+<img width="1792" height="1120" alt="2" src="https://github.com/user-attachments/assets/2d3eae41-9b2f-4082-aaa2-b6002530224d" />
+<img width="1792" height="1120" alt="1" src="https://github.com/user-attachments/assets/64ea45f7-5eac-474c-8a20-08f84c1e52fc" />
+<img width="1792" height="1120" alt="4" src="https://github.com/user-attachments/assets/74277485-3f4a-4bd9-adf0-503bbb088cc1" />
+<img width="1792" height="1120" alt="3" src="https://github.com/user-attachments/assets/13f90b53-6595-4f5d-97ea-f37a1cb56b66" />
