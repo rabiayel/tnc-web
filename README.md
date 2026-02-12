@@ -1,20 +1,50 @@
-<<<<<<< HEAD
-# tnc-web
-=======
-# React + Vite
+Bu proje, eğitim programı kapsamında katılımcıların modern web teknolojilerini kullanarak gerçek bir frontend uygulaması geliştirme deneyimi kazanmalarını amaçlamaktadır. Eğitim sürecinde edinilen HTML, CSS ve JavaScript bilgileri; ReactJS ve Tailwind CSS gibi modern araçlarla birleştirilerek uçtan uca bir web uygulaması ortaya konulmuştur.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proje geliştirme sürecinde ReactJS kullanılarak bileşen (component) tabanlı bir yapı oluşturulmuş, arayüz tasarımları Tailwind CSS ile modern ve responsive olacak şekilde tasarlanmıştır. Uygulama, eğitimde işlenen TODO App benzeri bir yapı üzerine kurulmuş olup temel CRUD (Create, Read, Update, Delete) işlemlerini içermektedir.
 
-Currently, two official plugins are available:
+Bu çalışma sayesinde katılımcılar; proje kurulumu, klasör yapısı oluşturma, component mimarisi, state yönetimi, arayüz tasarımı, GitHub üzerinden versiyon kontrolü ve Netlify ile canlıya alma süreçlerini uygulamalı olarak deneyimlemiştir.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Kullanılan Teknolojiler
 
-## React Compiler
+ReactJS – Bileşen tabanlı modern frontend geliştirme
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Tailwind CSS – Hızlı ve modern arayüz tasarımı
 
-## Expanding the ESLint configuration
+JavaScript (ES6+) – Uygulama mantığı
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> Initial commit - React dashboard project
+HTML5 & CSS3 – Temel web yapısı
+
+Git & GitHub – Versiyon kontrolü ve proje paylaşımı
+
+Netlify – Projenin canlıya alınması (deployment)
+
+Proje Kapsamı
+
+Uygulama aşağıdaki temel özellikleri içermektedir:
+
+Veri ekleme
+
+Verileri listeleme
+
+Var olan verileri güncelleme
+
+Verileri silme
+
+Bileşen tabanlı yapı (Components, Pages vb.)
+
+Responsive ve modern arayüz tasarımı
+
+Amaç
+
+Bu projenin amacı; katılımcıların:
+
+Modern frontend teknolojileriyle gerçek bir proje geliştirmesi,
+
+ReactJS ekosistemine giriş yapması,
+
+Tailwind CSS ile modern UI geliştirme pratiği kazanması,
+
+GitHub ve Netlify kullanarak bir projeyi uçtan uca yayınlama sürecini öğrenmesi,
+
+Gerçek dünya projelerine başlangıç seviyesinde hazır hâle gelmesidir.
+
